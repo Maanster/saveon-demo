@@ -1,0 +1,301 @@
+{
+  "top_20_item_pairs": [
+    {
+      "item_a": "Cocktail",
+      "item_b": "Taco",
+      "lift": 3.5842,
+      "support": 0.106,
+      "count_ab": 149
+    },
+    {
+      "item_a": "Chicken Strips",
+      "item_b": "Fries",
+      "lift": 3.2228,
+      "support": 0.1523,
+      "count_ab": 214
+    },
+    {
+      "item_a": "Fries",
+      "item_b": "Taco",
+      "lift": 3.0289,
+      "support": 0.1281,
+      "count_ab": 180
+    },
+    {
+      "item_a": "Hot Beverage",
+      "item_b": "Wine by the Glass SOFMC",
+      "lift": 2.4286,
+      "support": 0.1388,
+      "count_ab": 195
+    },
+    {
+      "item_a": "Chicken Strips",
+      "item_b": "Hot Beverage",
+      "lift": 2.3667,
+      "support": 0.1452,
+      "count_ab": 204
+    },
+    {
+      "item_a": "Chicken Strips",
+      "item_b": "Nachos",
+      "lift": 2.337,
+      "support": 0.148,
+      "count_ab": 208
+    },
+    {
+      "item_a": "Cheeseburger",
+      "item_b": "Chicken Strips",
+      "lift": 2.2984,
+      "support": 0.1466,
+      "count_ab": 206
+    },
+    {
+      "item_a": "Nachos",
+      "item_b": "Taco",
+      "lift": 2.2848,
+      "support": 0.1295,
+      "count_ab": 182
+    },
+    {
+      "item_a": "Fries",
+      "item_b": "Nachos",
+      "lift": 2.2815,
+      "support": 0.2811,
+      "count_ab": 395
+    },
+    {
+      "item_a": "Cheeseburger",
+      "item_b": "Fries",
+      "lift": 2.1337,
+      "support": 0.2648,
+      "count_ab": 372
+    },
+    {
+      "item_a": "Tap Beer",
+      "item_b": "Wine by the Glass SOFMC",
+      "lift": 2.11,
+      "support": 0.1267,
+      "count_ab": 178
+    },
+    {
+      "item_a": "Tap Beer",
+      "item_b": "Wine by the Glass",
+      "lift": 1.9905,
+      "support": 0.0861,
+      "count_ab": 121
+    },
+    {
+      "item_a": "Cheeseburger",
+      "item_b": "Taco",
+      "lift": 1.9822,
+      "support": 0.1132,
+      "count_ab": 159
+    },
+    {
+      "item_a": "Cocktail",
+      "item_b": "Wine by the Glass SOFMC",
+      "lift": 1.9183,
+      "support": 0.0591,
+      "count_ab": 83
+    },
+    {
+      "item_a": "Chicken Strips",
+      "item_b": "Hot Dog",
+      "lift": 1.9137,
+      "support": 0.1495,
+      "count_ab": 210
+    },
+    {
+      "item_a": "Pretzel",
+      "item_b": "Wine by the Glass",
+      "lift": 1.847,
+      "support": 0.1018,
+      "count_ab": 143
+    },
+    {
+      "item_a": "Hot Dog",
+      "item_b": "Pizza Slice",
+      "lift": 1.8257,
+      "support": 0.1452,
+      "count_ab": 204
+    },
+    {
+      "item_a": "Chicken Strips",
+      "item_b": "Pretzel",
+      "lift": 1.7686,
+      "support": 0.1452,
+      "count_ab": 204
+    },
+    {
+      "item_a": "Cheeseburger",
+      "item_b": "Hot Beverage",
+      "lift": 1.7321,
+      "support": 0.279,
+      "count_ab": 392
+    },
+    {
+      "item_a": "Nachos",
+      "item_b": "Pizza Slice",
+      "lift": 1.7103,
+      "support": 0.1103,
+      "count_ab": 155
+    }
+  ],
+  "top_10_category_pairs": [
+    {
+      "category_a": "Cocktail",
+      "category_b": "Food",
+      "count_ab": 226,
+      "support": 0.1628,
+      "lift": 1.1867
+    },
+    {
+      "category_a": "Cocktail",
+      "category_b": "Other",
+      "count_ab": 293,
+      "support": 0.2111,
+      "lift": 1.0883
+    },
+    {
+      "category_a": "Beer",
+      "category_b": "Cocktail",
+      "count_ab": 296,
+      "support": 0.2133,
+      "lift": 1.0622
+    },
+    {
+      "category_a": "Beer",
+      "category_b": "Other",
+      "count_ab": 1232,
+      "support": 0.8876,
+      "lift": 1.0506
+    },
+    {
+      "category_a": "Cocktail",
+      "category_b": "Snacks",
+      "count_ab": 297,
+      "support": 0.214,
+      "lift": 1.037
+    },
+    {
+      "category_a": "Cocktail",
+      "category_b": "NA Bev",
+      "count_ab": 297,
+      "support": 0.214,
+      "lift": 1.027
+    },
+    {
+      "category_a": "Beer",
+      "category_b": "Snacks",
+      "count_ab": 1279,
+      "support": 0.9215,
+      "lift": 1.0252
+    },
+    {
+      "category_a": "Other",
+      "category_b": "Snacks",
+      "count_ab": 1235,
+      "support": 0.8898,
+      "lift": 1.0247
+    },
+    {
+      "category_a": "Food",
+      "category_b": "Other",
+      "count_ab": 820,
+      "support": 0.5908,
+      "lift": 1.0233
+    },
+    {
+      "category_a": "Food",
+      "category_b": "NA Bev",
+      "count_ab": 875,
+      "support": 0.6304,
+      "lift": 1.0165
+    }
+  ],
+  "suggested_bundles": [
+    {
+      "name": "Cocktail + Taco",
+      "items": [
+        "Cocktail",
+        "Taco"
+      ],
+      "individual_total": 15.98,
+      "suggested_price": 14.38,
+      "savings": 1.6,
+      "lift": 3.5842,
+      "support": 0.106,
+      "estimated_annual_revenue": 321.39
+    },
+    {
+      "name": "Chicken Strips + Fries",
+      "items": [
+        "Chicken Strips",
+        "Fries"
+      ],
+      "individual_total": 14.98,
+      "suggested_price": 13.48,
+      "savings": 1.5,
+      "lift": 3.2228,
+      "support": 0.1523,
+      "estimated_annual_revenue": 432.71
+    },
+    {
+      "name": "Hot Beverage + Wine by the Glass SOFMC",
+      "items": [
+        "Hot Beverage",
+        "Wine by the Glass SOFMC"
+      ],
+      "individual_total": 8.68,
+      "suggested_price": 7.81,
+      "savings": 0.87,
+      "lift": 2.4286,
+      "support": 0.1388,
+      "estimated_annual_revenue": 228.44
+    },
+    {
+      "name": "Tap Beer + Wine by the Glass",
+      "items": [
+        "Tap Beer",
+        "Wine by the Glass"
+      ],
+      "individual_total": 14.49,
+      "suggested_price": 13.04,
+      "savings": 1.45,
+      "lift": 1.9905,
+      "support": 0.0861,
+      "estimated_annual_revenue": 236.68
+    },
+    {
+      "name": "Hot Dog + Pizza Slice",
+      "items": [
+        "Hot Dog",
+        "Pizza Slice"
+      ],
+      "individual_total": 11.98,
+      "suggested_price": 10.78,
+      "savings": 1.2,
+      "lift": 1.8257,
+      "support": 0.1452,
+      "estimated_annual_revenue": 329.87
+    },
+    {
+      "name": "Cheeseburger + Nachos",
+      "items": [
+        "Cheeseburger",
+        "Nachos"
+      ],
+      "individual_total": 16.98,
+      "suggested_price": 15.28,
+      "savings": 1.7,
+      "lift": 1.5919,
+      "support": 0.2648,
+      "estimated_annual_revenue": 852.62
+    }
+  ],
+  "metadata": {
+    "n_baskets": 1405,
+    "n_transactions": 239537,
+    "n_unique_items": 22
+  }
+}
