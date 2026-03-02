@@ -42,6 +42,13 @@ if mode == "View Slides":
         st.error(f"Slides not found at {slides_path}")
     st.stop()
 
+# Demo mode: ensure database exists (build on first load if needed)
+import config
+if not os.path.exists(config.DB_PATH):
+    with st.spinner("Building database from source data... This may take a minute."):
+        from data_foundation.load_data import load_all_data
+        load_all_data()
+
 # Horizontal navigation (Demo mode)
 from streamlit_option_menu import option_menu
 
