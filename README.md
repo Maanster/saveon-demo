@@ -25,13 +25,13 @@ pip install -r requirements.txt
 streamlit run dashboard/app.py
 ```
 
-Then open [http://localhost:8501](http://localhost:8501).
+Then open http://localhost:8501.
 
 Use the **View Slides** / **View Demo** toggle at the top to switch between the pitch deck and the live dashboard.
 
 ## Live Demo
 
-[Deploy to Streamlit Community Cloud and add your URL here]
+https://saveon-demo.streamlit.app/
 
 ## Tech Stack
 
