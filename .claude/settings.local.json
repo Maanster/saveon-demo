@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(wc -l \"/Users/chete/Library/CloudStorage/GoogleDrive-gabriel@gvlnetworks.com/My Drive/Hackaton - Hockey/data\"/*.csv)",
+      "Bash(do wc -l \"$f\")",
+      "Bash(done)",
+      "Bash(sort -k2)",
+      "Bash(grep -i \"victoria\\\\|bc\\\\|hockey\" \"/Users/chete/Library/CloudStorage/GoogleDrive-gabriel@gvlnetworks.com/My Drive/Hackaton - Hockey/data\"/*.csv)",
+      "Bash(find \"/Users/chete/Library/CloudStorage/GoogleDrive-gabriel@gvlnetworks.com/My Drive/Hackaton - Hockey\" -type f ! -name \"*.HEIC\" ! -name \".DS_Store\" -exec basename {} ;)",
+      "Bash(head -3 *.csv)",
+      "Bash(du -sh \"/Users/chete/Library/CloudStorage/GoogleDrive-gabriel@gvlnetworks.com/My Drive/Hackaton - Hockey\"/*)",
+      "Bash(wc -l \"/Users/chete/Library/CloudStorage/GoogleDrive-gabriel@gvlnetworks.com/My Drive/Hackaton - Hockey/data/\"*.csv)",
+      "Bash(ls -d \"/Users/chete/.claude/projects/\"*Library*Hockey*)",
+      "Bash(python3 -c \":*)",
+      "Bash(ls -la \"/Users/chete/Library/CloudStorage/GoogleDrive-gabriel@gvlnetworks.com/My Drive/Hackaton - Hockey/reports/\"*.md)",
+      "Bash(while read line)",
+      "Bash(do echo \"$line\")"
+    ]
+  }
+}
